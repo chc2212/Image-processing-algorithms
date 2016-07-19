@@ -1,2 +1,2 @@
 # Web-based-information-system-of-shopping-mall
-Lecture Project
+Projects in Image Processing lecture
