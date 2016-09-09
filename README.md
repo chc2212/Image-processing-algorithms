@@ -1,2 +1,2 @@
-# Web-based-information-system-of-shopping-mall
-Projects in Image Processing lecture
+# Image-processing-algorithms
+Projects in Image Processing lecture including FFT, histogram specification, wavelet transform, ..
